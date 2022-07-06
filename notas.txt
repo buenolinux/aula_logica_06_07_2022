@@ -2,4 +2,5 @@
   Dividir para conquisar, dividir o vetor para poder fazer uma pesquisa eficiente 
   para funcionar esta pesquisa o vetor precisa estar ordenado
 Vimos o algoritmo de ordenação de vetores, ordenação em bolhas
+Algoritmo mais complexo para ordenação "quicksort algoritmo"
 estrutura de dados em forma de árvore
