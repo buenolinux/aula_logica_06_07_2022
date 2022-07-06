@@ -1,0 +1,3 @@
+Árvore de Pesquisa Binária 
+  Dividir para conquisar, dividir o vetor para poder fazer uma pesquisa eficiente 
+estrutura de dados em forma de árvore
